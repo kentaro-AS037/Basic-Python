@@ -7,4 +7,4 @@ while True:
         break
     
     print(f"Case {n}: {x}")
-    n = n + 1
+    n += 1
